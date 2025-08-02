@@ -1,0 +1,56 @@
+Purchase History:
+1. milk | Value: 390.75 | Quantity: 10
+
+Total items: 1
+Total price: 3907.50
+Date/Time: Tue Jul 15 16:38:23 2025
+---------------------------------------------------------------
+Purchase History:
+1. milk | Value: 390.75 | Quantity: 1
+
+Total items: 1
+Total price: 390.75
+Date/Time: Tue Jul 15 16:43:17 2025
+---------------------------------------------------------------
+Purchase History:
+1. milk | Value: 390.75 | Quantity: 1
+
+Total items: 1
+Total price: 390.75
+Date/Time: Tue Jul 15 16:45:48 2025
+---------------------------------------------------------------
+Purchase History:
+1. milk | Value: 390.75 | Quantity: 1
+
+Total items: 1
+Total price: 390.75
+Date/Time: Tue Jul 15 16:47:23 2025
+---------------------------------------------------------------
+Purchase History:
+1. milk | Value: 390.75 | Quantity: 1
+
+Total items: 1
+Total price: 390.75
+Date/Time: Tue Jul 15 16:49:05 2025
+---------------------------------------------------------------
+Purchase History:
+1. pliers | Value: 133.76 | Quantity: 1
+2. milk | Value: 390.75 | Quantity: 1
+
+Total items: 2
+Total price: 524.51
+Date/Time: Wed Jul 16 09:11:00 2025
+---------------------------------------------------------------
+Purchase History:
+1. bag | Value: 77.50 | Quantity: 1
+
+Total items: 1
+Total price: 77.50
+Date/Time: Thu Jul 17 14:08:34 2025
+---------------------------------------------------------------
+Purchase History:
+
+Total items: 0
+Total price: 0.00
+Date/Time: Thu Jul 17 14:19:10 2025
+---------------------------------------------------------------

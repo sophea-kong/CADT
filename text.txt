@@ -1,0 +1,16 @@
+--------------------------------------------------
+				RECEIPT
+--------------------------------------------------
+Business Name: Sigma Management
+Address:	SIGMA MALE house
+Phone:		01023424
+Email:		sigma@sigmail.com
+--------------------------------------------------
+	Receipt No: 10001
+	Date: Thu Jul 17 14:19:23 2025
+
+Items Purchased:
+--------------------------------------------------
+Total Amount: 0.00
+--------------------------------------------------
+Thank you for your purchase!
